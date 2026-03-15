@@ -15,7 +15,7 @@ The problem is modeled as a **Directed Acyclic Graph (DAG)** where nodes are tas
 
 The case study notes that there may be two valid answers depending on interpretation:
 
-| Interpretation | Logic | Result |
+| Interpretation | Logic |s
 |---|---|---|
 | **Parallel** | Independent tasks run simultaneously. Minimum time = longest path through the DAG (critical path).
 | **Sequential** | Only one task runs at a time. Minimum time = sum of all durations.
